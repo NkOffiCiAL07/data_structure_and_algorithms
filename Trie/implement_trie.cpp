@@ -2,7 +2,6 @@
 using namespace std;
 
 const int Size = 26;
-
 struct node
 {
 	bool endofwords;
