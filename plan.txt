@@ -1,0 +1,83 @@
+𝐀𝐑𝐑𝐀𝐘
+1. Kadane's Algorithm (maximum sum subarray)
+2. N/K Repeat number 
+3. 3 sum
+4. Kth smallest/Largest number (using quickselect)
+5. All sorting algorithms
+6. All searching algorithms
+7. Trapping Rainwater Problem
+
+𝐋𝐈𝐍𝐊𝐄𝐃 𝐋𝐈𝐒𝐓
+1. Reverse LL in blocks of size K (LL-> Linked List)
+2. Reorder List 
+3. Merge 2 sorted lists
+4. Cycle detection/removal in LL
+5. Add 2 numbers given as linked list
+
+𝐒𝐓𝐀𝐂𝐊
+1. Implement stack
+2. Stock Span Problem
+3. Implement Queue using stack
+4. Valid Parenthesis Problem
+
+𝐐𝐔𝐄𝐔𝐄
+1. Implement Queue
+2. Implement Stack using Queue
+3. Circular Tour Problem
+
+𝐒𝐓𝐑𝐈𝐍𝐆
+1. KMP Pattern Matching algorithm
+2. Rabin Karp Algorithm (Rolling Hash)
+3. Reverse all words in a text
+4. Prefix->Postfix, Postfix->Infix etc. conversions
+5. Word break problem (Dynamic Programming)
+6. Group Anagrams 
+
+𝐇𝐀𝐒𝐇 (𝐌𝐀𝐏)
+1. Implement Hash
+2. 4 Sum
+3. Longest Substring without repeating characters
+
+𝐇𝐄𝐀𝐏
+1. Heap Implementation
+2. Build Heap
+3. Heap sort
+4. Merge K sorted Lists
+5. Last Stone Weight
+
+𝟐-𝐃 𝐌𝐚𝐭𝐫𝐢𝐱
+1. Rotate Matrix by 90/180/270
+2. Rotate matrix spiral rings like a rotating spiral lock
+
+𝐒𝐞𝐠𝐦𝐞𝐧𝐭 𝐓𝐫𝐞𝐞
+1. Implement Segment Tree
+2. Range Sum Query
+3. Range Minimum Query
+4. Implement Lazy Propagation in Segment Tree
+
+𝐁𝐢𝐧𝐚𝐫𝐲 𝐈𝐧𝐝𝐞𝐱𝐞𝐝 𝐓𝐫𝐞𝐞
+1. Implement BIT
+2. The Skyline Problem
+
+𝐓𝐑𝐈𝐄
+1. Count number of strings with a given prefix
+2. Largest duplicate substring
+
+𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
+1. Count Subsets with Sum X (Knapsack)
+2. Target Sum Problem 
+3. Coin Change Problem 
+4. Coin Change 2 
+5. Longest Repeating Subsequence (LCS variant)
+6. Russian Doll Envelope (LIS variant )
+7. Minimum Edit Distance
+8. Kadane’s Algo
+9. Unique Paths 2 (DP on GRID)
+10. Matrix Chain Multiplication (Balloon Burst Problem)
+11. Egg Dropping Problem (MCM variant)
+
+𝐆𝐑𝐀𝐏𝐇
+1. DFS/BFS algorithm
+2. Number of islands 
+3. Topological Sort (Course schedule 2)
+4. Tarjan’s Algorithm
