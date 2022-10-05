@@ -72,5 +72,6 @@ int main()
 			cout << "sum : " << sum(1, 1, n+1, l, r) << "\n";
 		}
 	}
+	
 	return 0;
 }
