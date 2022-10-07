@@ -4,7 +4,6 @@ using namespace std;
 int ar[1000];
 int tree[4000];
 
-//hello hi
 void buildTree(int node, int start, int end)
 {
 	if(start == end)
