@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//
 vector<int> next_minimum(vector<int> &ar)
 {
 	vector<int> p;
