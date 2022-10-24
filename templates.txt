@@ -7,7 +7,7 @@ auto comp = [&](ListNode *a, ListNode *b) {
 // This priority queue is our MIN HEAP
 priority_queue<ListNode *, vector<ListNode *>, decltype(comp)> pq(comp);
 
-// using mask 
+// using mask to check char present in string
 if((mask >> (ch - 'a')) & 1)
     return;
 
