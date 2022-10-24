@@ -1,0 +1,14 @@
+// This comparator will be used to build MIN HEAP.
+// We use a LAMBDA to define the comparator.
+auto comp = [&](ListNode *a, ListNode *b) {
+    return a->val > b->val;
+};
+
+// This priority queue is our MIN HEAP
+priority_queue<ListNode *, vector<ListNode *>, decltype(comp)> pq(comp);
+
+// using mask 
+if((mask >> (ch - 'a')) & 1)
+    return;
+
+mask |= 1 << (ch - 'a'); 
